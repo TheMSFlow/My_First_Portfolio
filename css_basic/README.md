@@ -5,6 +5,3 @@
 [style CSS](styles.css)  
 [index HTML](index.html)  
 [tweets HTML](tweets.html)  
-
-  
-### Images
